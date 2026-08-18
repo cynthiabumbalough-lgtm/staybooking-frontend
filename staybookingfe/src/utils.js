@@ -1,4 +1,4 @@
-const domain = "https://staybooking-614092140035.us-west1.run.app";
+const domain = "https://staybooking-1046790610796.us-west1.run.app";
 //const domain = "http://localhost:8080";
 export const login = (credential) => {
   const loginUrl = `${domain}/auth/login`;

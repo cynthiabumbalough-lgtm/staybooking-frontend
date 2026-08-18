@@ -6,7 +6,6 @@ import {
   Image,
   Carousel,
   Button,
-  Tooltip,
   Space,
   Modal,
 } from "antd";
